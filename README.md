@@ -45,4 +45,4 @@ Make sure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com//yuguerten/housing_casablanca_scrapping.git
+   git clone https://github.com//yuguerten/Real_Estate_Data_Scraper.git
