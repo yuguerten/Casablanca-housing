@@ -1,0 +1,595 @@
+Location,Num_rooms,House_area(m²),Price(DH)
+Oulfa Casablanca,3,116,980.0
+Casablanca Marina Casablanca,2,142,530.0
+Ain Diab Casablanca,3,280,450.0
+Anfa Supérieur Casablanca,3,110,165.0
+Les Hopitaux Casablanca,2,113,156.0
+Les Hopitaux Casablanca,2,109,140.0
+Les princesses Casablanca,1,55,125.0
+Mers Sultan Casablanca,3,120,120.0
+ Maarif Casablanca,3,173,116.0
+Ain Sebaa Casablanca,3,222,115.0
+ Casablanca,2,79,110.0
+Mers Sultan Casablanca,2,128,109.0
+Mers Sultan Casablanca,2,128,109.0
+Maarif Casablanca,3,92,105.0
+Maarif Casablanca,2,80,100.0
+ Maarif Casablanca,3,101,98.0
+Bourgogne Ouest Casablanca,1,63,95.0
+Quartier Industriel Casablanca,2,115,72.0
+Sidi Othmane Casablanca,2,75,70.0
+Oasis Casablanca,78,4264,60.0
+Anfa Casablanca,5,290,43.0
+Anassi Casablanca,2,52,36.0
+Al Qods Casablanca,3,62,34.0
+ Anassi Casablanca,3,200,20.0
+Maarif Casablanca,10,972,20.0
+Maarif Casablanca,14,1350,20.0
+Gauthier Casablanca,5,897,16.0
+Californie Casablanca,5,914,16.0
+Al Kodia Casablanca,4,187,16.0
+Bourgogne Ouest Casablanca,2,110,15.0
+CIL (Hay Salam) Casablanca,4,700,15.0
+Plateau (Al Batha) Casablanca,4,423,14.0
+Racine Casablanca,5,509,13.0
+Oulfa Casablanca,3,116,980.0
+Casablanca Marina Casablanca,2,142,530.0
+Ain Diab Casablanca,3,280,450.0
+Anfa Supérieur Casablanca,3,110,165.0
+Les Hopitaux Casablanca,2,113,156.0
+Les Hopitaux Casablanca,2,109,140.0
+Les princesses Casablanca,1,55,125.0
+Mers Sultan Casablanca,3,120,120.0
+ Casablanca,3,173,116.0
+Ain Sebaa Casablanca,3,222,115.0
+ Casablanca,2,79,110.0
+Mers Sultan Casablanca,2,128,109.0
+Mers Sultan Casablanca,2,128,109.0
+Maarif Casablanca,3,92,105.0
+Maarif Casablanca,2,80,100.0
+ Casablanca,3,101,98.0
+Bourgogne Ouest Casablanca,1,63,95.0
+Quartier Industriel Casablanca,2,115,72.0
+Sidi Othmane Casablanca,2,75,70.0
+Oasis Casablanca,78,4264,60.0
+Anfa Casablanca,5,290,43.0
+Anassi Casablanca,2,52,36.0
+Al Qods Casablanca,3,62,34.0
+ Casablanca,3,200,20.0
+Maarif Casablanca,10,972,20.0
+Maarif Casablanca,14,1350,20.0
+Gauthier Casablanca,5,897,16.0
+Californie Casablanca,5,914,16.0
+Al Kodia Casablanca,4,187,16.0
+Bourgogne Ouest Casablanca,2,110,15.0
+CIL (Hay Salam) Casablanca,4,700,15.0
+Plateau (Al Batha) Casablanca,4,423,14.0
+Racine Casablanca,5,509,13.0
+Oulfa Casablanca,3,116,980.0
+Casablanca Marina Casablanca,2,142,530.0
+Ain Diab Casablanca,3,280,450.0
+Anfa Supérieur Casablanca,3,110,165.0
+Les Hopitaux Casablanca,2,113,156.0
+Les Hopitaux Casablanca,2,109,140.0
+Les princesses Casablanca,1,55,125.0
+Mers Sultan Casablanca,3,120,120.0
+ Casablanca,3,173,116.0
+Ain Sebaa Casablanca,3,222,115.0
+ Casablanca,2,79,110.0
+Mers Sultan Casablanca,2,128,109.0
+Mers Sultan Casablanca,2,128,109.0
+Maarif Casablanca,3,92,105.0
+Maarif Casablanca,2,80,100.0
+ Casablanca,3,101,98.0
+Bourgogne Ouest Casablanca,1,63,95.0
+Quartier Industriel Casablanca,2,115,72.0
+Sidi Othmane Casablanca,2,75,70.0
+Oasis Casablanca,78,4264,60.0
+Anfa Casablanca,5,290,43.0
+Anassi Casablanca,2,52,36.0
+Al Qods Casablanca,3,62,34.0
+ Casablanca,3,200,20.0
+Maarif Casablanca,10,972,20.0
+Maarif Casablanca,14,1350,20.0
+Gauthier Casablanca,5,897,16.0
+Californie Casablanca,5,914,16.0
+Al Kodia Casablanca,4,187,16.0
+Bourgogne Ouest Casablanca,2,110,15.0
+CIL (Hay Salam) Casablanca,4,700,15.0
+Plateau (Al Batha) Casablanca,4,423,14.0
+Racine Casablanca,5,509,13.0
+Oulfa Casablanca,3,116,980.0
+Casablanca Marina Casablanca,2,142,530.0
+Ain Diab Casablanca,3,280,450.0
+Anfa Supérieur Casablanca,3,110,165.0
+Les Hopitaux Casablanca,2,113,156.0
+Les Hopitaux Casablanca,2,109,140.0
+Les princesses Casablanca,1,55,125.0
+Mers Sultan Casablanca,3,120,120.0
+ Casablanca,3,173,116.0
+Ain Sebaa Casablanca,3,222,115.0
+ Casablanca,2,79,110.0
+Mers Sultan Casablanca,2,128,109.0
+Mers Sultan Casablanca,2,128,109.0
+Maarif Casablanca,3,92,105.0
+Maarif Casablanca,2,80,100.0
+ Casablanca,3,101,98.0
+Bourgogne Ouest Casablanca,1,63,95.0
+Quartier Industriel Casablanca,2,115,72.0
+Sidi Othmane Casablanca,2,75,70.0
+Oasis Casablanca,78,4264,60.0
+Anfa Casablanca,5,290,43.0
+Anassi Casablanca,2,52,36.0
+Al Qods Casablanca,3,62,34.0
+ Casablanca,3,200,20.0
+Maarif Casablanca,10,972,20.0
+Maarif Casablanca,14,1350,20.0
+Gauthier Casablanca,5,897,16.0
+Californie Casablanca,5,914,16.0
+Al Kodia Casablanca,4,187,16.0
+Bourgogne Ouest Casablanca,2,110,15.0
+CIL (Hay Salam) Casablanca,4,700,15.0
+Plateau (Al Batha) Casablanca,4,423,14.0
+Racine Casablanca,5,509,13.0
+Oulfa Casablanca,3,116,980.0
+Casablanca Marina Casablanca,2,142,530.0
+Ain Diab Casablanca,3,280,450.0
+Anfa Supérieur Casablanca,3,110,165.0
+Les Hopitaux Casablanca,2,113,156.0
+Les Hopitaux Casablanca,2,109,140.0
+Les princesses Casablanca,1,55,125.0
+Mers Sultan Casablanca,3,120,120.0
+ Casablanca,3,173,116.0
+Ain Sebaa Casablanca,3,222,115.0
+ Casablanca,2,79,110.0
+Mers Sultan Casablanca,2,128,109.0
+Mers Sultan Casablanca,2,128,109.0
+Maarif Casablanca,3,92,105.0
+Maarif Casablanca,2,80,100.0
+ Casablanca,3,101,98.0
+Bourgogne Ouest Casablanca,1,63,95.0
+Quartier Industriel Casablanca,2,115,72.0
+Sidi Othmane Casablanca,2,75,70.0
+Oasis Casablanca,78,4264,60.0
+Anfa Casablanca,5,290,43.0
+Anassi Casablanca,2,52,36.0
+Al Qods Casablanca,3,62,34.0
+ Casablanca,3,200,20.0
+Maarif Casablanca,10,972,20.0
+Maarif Casablanca,14,1350,20.0
+Gauthier Casablanca,5,897,16.0
+Californie Casablanca,5,914,16.0
+Al Kodia Casablanca,4,187,16.0
+Bourgogne Ouest Casablanca,2,110,15.0
+CIL (Hay Salam) Casablanca,4,700,15.0
+Plateau (Al Batha) Casablanca,4,423,14.0
+Racine Casablanca,5,509,13.0
+Oulfa Casablanca,3,116,980.0
+Casablanca Marina Casablanca,2,142,530.0
+Ain Diab Casablanca,3,280,450.0
+Anfa Supérieur Casablanca,3,110,165.0
+Les Hopitaux Casablanca,2,113,156.0
+Les Hopitaux Casablanca,2,109,140.0
+Les princesses Casablanca,1,55,125.0
+Mers Sultan Casablanca,3,120,120.0
+ Casablanca,3,173,116.0
+Ain Sebaa Casablanca,3,222,115.0
+ Casablanca,2,79,110.0
+Mers Sultan Casablanca,2,128,109.0
+Mers Sultan Casablanca,2,128,109.0
+Maarif Casablanca,3,92,105.0
+Maarif Casablanca,2,80,100.0
+ Casablanca,3,101,98.0
+Bourgogne Ouest Casablanca,1,63,95.0
+Quartier Industriel Casablanca,2,115,72.0
+Sidi Othmane Casablanca,2,75,70.0
+Oasis Casablanca,78,4264,60.0
+Anfa Casablanca,5,290,43.0
+Anassi Casablanca,2,52,36.0
+Al Qods Casablanca,3,62,34.0
+ Casablanca,3,200,20.0
+Maarif Casablanca,10,972,20.0
+Maarif Casablanca,14,1350,20.0
+Gauthier Casablanca,5,897,16.0
+Californie Casablanca,5,914,16.0
+Al Kodia Casablanca,4,187,16.0
+Bourgogne Ouest Casablanca,2,110,15.0
+CIL (Hay Salam) Casablanca,4,700,15.0
+Plateau (Al Batha) Casablanca,4,423,14.0
+Racine Casablanca,5,509,13.0
+Oulfa Casablanca,3,116,980.0
+Casablanca Marina Casablanca,2,142,530.0
+Ain Diab Casablanca,3,280,450.0
+Anfa Supérieur Casablanca,3,110,165.0
+Les Hopitaux Casablanca,2,113,156.0
+Les Hopitaux Casablanca,2,109,140.0
+Les princesses Casablanca,1,55,125.0
+Mers Sultan Casablanca,3,120,120.0
+ Casablanca,3,173,116.0
+Ain Sebaa Casablanca,3,222,115.0
+ Casablanca,2,79,110.0
+Mers Sultan Casablanca,2,128,109.0
+Mers Sultan Casablanca,2,128,109.0
+Maarif Casablanca,3,92,105.0
+Maarif Casablanca,2,80,100.0
+ Casablanca,3,101,98.0
+Bourgogne Ouest Casablanca,1,63,95.0
+Quartier Industriel Casablanca,2,115,72.0
+Sidi Othmane Casablanca,2,75,70.0
+Oasis Casablanca,78,4264,60.0
+Anfa Casablanca,5,290,43.0
+Anassi Casablanca,2,52,36.0
+Al Qods Casablanca,3,62,34.0
+ Casablanca,3,200,20.0
+Maarif Casablanca,10,972,20.0
+Maarif Casablanca,14,1350,20.0
+Gauthier Casablanca,5,897,16.0
+Californie Casablanca,5,914,16.0
+Al Kodia Casablanca,4,187,16.0
+Bourgogne Ouest Casablanca,2,110,15.0
+CIL (Hay Salam) Casablanca,4,700,15.0
+Plateau (Al Batha) Casablanca,4,423,14.0
+Racine Casablanca,5,509,13.0
+Oulfa Casablanca,3,116,980.0
+Casablanca Marina Casablanca,2,142,530.0
+Ain Diab Casablanca,3,280,450.0
+Anfa Supérieur Casablanca,3,110,165.0
+Les Hopitaux Casablanca,2,113,156.0
+Les Hopitaux Casablanca,2,109,140.0
+Les princesses Casablanca,1,55,125.0
+Mers Sultan Casablanca,3,120,120.0
+ Casablanca,3,173,116.0
+Ain Sebaa Casablanca,3,222,115.0
+ Casablanca,2,79,110.0
+Mers Sultan Casablanca,2,128,109.0
+Mers Sultan Casablanca,2,128,109.0
+Maarif Casablanca,3,92,105.0
+Maarif Casablanca,2,80,100.0
+ Casablanca,3,101,98.0
+Bourgogne Ouest Casablanca,1,63,95.0
+Quartier Industriel Casablanca,2,115,72.0
+Sidi Othmane Casablanca,2,75,70.0
+Oasis Casablanca,78,4264,60.0
+Anfa Casablanca,5,290,43.0
+Anassi Casablanca,2,52,36.0
+Al Qods Casablanca,3,62,34.0
+ Casablanca,3,200,20.0
+Maarif Casablanca,10,972,20.0
+Maarif Casablanca,14,1350,20.0
+Gauthier Casablanca,5,897,16.0
+Californie Casablanca,5,914,16.0
+Al Kodia Casablanca,4,187,16.0
+Bourgogne Ouest Casablanca,2,110,15.0
+CIL (Hay Salam) Casablanca,4,700,15.0
+Plateau (Al Batha) Casablanca,4,423,14.0
+Racine Casablanca,5,509,13.0
+Oulfa Casablanca,3,116,980.0
+Casablanca Marina Casablanca,2,142,530.0
+Ain Diab Casablanca,3,280,450.0
+Anfa Supérieur Casablanca,3,110,165.0
+Les Hopitaux Casablanca,2,113,156.0
+Les Hopitaux Casablanca,2,109,140.0
+Les princesses Casablanca,1,55,125.0
+Mers Sultan Casablanca,3,120,120.0
+ Casablanca,3,173,116.0
+Ain Sebaa Casablanca,3,222,115.0
+ Casablanca,2,79,110.0
+Mers Sultan Casablanca,2,128,109.0
+Mers Sultan Casablanca,2,128,109.0
+Maarif Casablanca,3,92,105.0
+Maarif Casablanca,2,80,100.0
+ Casablanca,3,101,98.0
+Bourgogne Ouest Casablanca,1,63,95.0
+Quartier Industriel Casablanca,2,115,72.0
+Sidi Othmane Casablanca,2,75,70.0
+Oasis Casablanca,78,4264,60.0
+Anfa Casablanca,5,290,43.0
+Anassi Casablanca,2,52,36.0
+Al Qods Casablanca,3,62,34.0
+ Casablanca,3,200,20.0
+Maarif Casablanca,10,972,20.0
+Maarif Casablanca,14,1350,20.0
+Gauthier Casablanca,5,897,16.0
+Californie Casablanca,5,914,16.0
+Al Kodia Casablanca,4,187,16.0
+Bourgogne Ouest Casablanca,2,110,15.0
+CIL (Hay Salam) Casablanca,4,700,15.0
+Plateau (Al Batha) Casablanca,4,423,14.0
+Racine Casablanca,5,509,13.0
+Oulfa Casablanca,3,116,980.0
+Casablanca Marina Casablanca,2,142,530.0
+Ain Diab Casablanca,3,280,450.0
+Anfa Supérieur Casablanca,3,110,165.0
+Les Hopitaux Casablanca,2,113,156.0
+Les Hopitaux Casablanca,2,109,140.0
+Les princesses Casablanca,1,55,125.0
+Mers Sultan Casablanca,3,120,120.0
+ Casablanca,3,173,116.0
+Ain Sebaa Casablanca,3,222,115.0
+ Casablanca,2,79,110.0
+Mers Sultan Casablanca,2,128,109.0
+Mers Sultan Casablanca,2,128,109.0
+Maarif Casablanca,3,92,105.0
+Maarif Casablanca,2,80,100.0
+ Casablanca,3,101,98.0
+Bourgogne Ouest Casablanca,1,63,95.0
+Quartier Industriel Casablanca,2,115,72.0
+Sidi Othmane Casablanca,2,75,70.0
+Oasis Casablanca,78,4264,60.0
+Anfa Casablanca,5,290,43.0
+Anassi Casablanca,2,52,36.0
+Al Qods Casablanca,3,62,34.0
+ Casablanca,3,200,20.0
+Maarif Casablanca,10,972,20.0
+Maarif Casablanca,14,1350,20.0
+Gauthier Casablanca,5,897,16.0
+Californie Casablanca,5,914,16.0
+Al Kodia Casablanca,4,187,16.0
+Bourgogne Ouest Casablanca,2,110,15.0
+CIL (Hay Salam) Casablanca,4,700,15.0
+Plateau (Al Batha) Casablanca,4,423,14.0
+Racine Casablanca,5,509,13.0
+Oulfa Casablanca,3,116,980.0
+Casablanca Marina Casablanca,2,142,530.0
+Ain Diab Casablanca,3,280,450.0
+Anfa Supérieur Casablanca,3,110,165.0
+Les Hopitaux Casablanca,2,113,156.0
+Les Hopitaux Casablanca,2,109,140.0
+Les princesses Casablanca,1,55,125.0
+Mers Sultan Casablanca,3,120,120.0
+ Casablanca,3,173,116.0
+Ain Sebaa Casablanca,3,222,115.0
+ Casablanca,2,79,110.0
+Mers Sultan Casablanca,2,128,109.0
+Mers Sultan Casablanca,2,128,109.0
+Maarif Casablanca,3,92,105.0
+Maarif Casablanca,2,80,100.0
+ Casablanca,3,101,98.0
+Bourgogne Ouest Casablanca,1,63,95.0
+Quartier Industriel Casablanca,2,115,72.0
+Sidi Othmane Casablanca,2,75,70.0
+Oasis Casablanca,78,4264,60.0
+Anfa Casablanca,5,290,43.0
+Anassi Casablanca,2,52,36.0
+Al Qods Casablanca,3,62,34.0
+ Casablanca,3,200,20.0
+Maarif Casablanca,10,972,20.0
+Maarif Casablanca,14,1350,20.0
+Gauthier Casablanca,5,897,16.0
+Californie Casablanca,5,914,16.0
+Al Kodia Casablanca,4,187,16.0
+Bourgogne Ouest Casablanca,2,110,15.0
+CIL (Hay Salam) Casablanca,4,700,15.0
+Plateau (Al Batha) Casablanca,4,423,14.0
+Racine Casablanca,5,509,13.0
+Oulfa Casablanca,3,116,980.0
+Casablanca Marina Casablanca,2,142,530.0
+Ain Diab Casablanca,3,280,450.0
+Anfa Supérieur Casablanca,3,110,165.0
+Les Hopitaux Casablanca,2,113,156.0
+Les Hopitaux Casablanca,2,109,140.0
+Les princesses Casablanca,1,55,125.0
+Mers Sultan Casablanca,3,120,120.0
+ Casablanca,3,173,116.0
+Ain Sebaa Casablanca,3,222,115.0
+ Casablanca,2,79,110.0
+Mers Sultan Casablanca,2,128,109.0
+Mers Sultan Casablanca,2,128,109.0
+Maarif Casablanca,3,92,105.0
+Maarif Casablanca,2,80,100.0
+ Casablanca,3,101,98.0
+Bourgogne Ouest Casablanca,1,63,95.0
+Quartier Industriel Casablanca,2,115,72.0
+Sidi Othmane Casablanca,2,75,70.0
+Oasis Casablanca,78,4264,60.0
+Anfa Casablanca,5,290,43.0
+Anassi Casablanca,2,52,36.0
+Al Qods Casablanca,3,62,34.0
+ Casablanca,3,200,20.0
+Maarif Casablanca,10,972,20.0
+Maarif Casablanca,14,1350,20.0
+Gauthier Casablanca,5,897,16.0
+Californie Casablanca,5,914,16.0
+Al Kodia Casablanca,4,187,16.0
+Bourgogne Ouest Casablanca,2,110,15.0
+CIL (Hay Salam) Casablanca,4,700,15.0
+Plateau (Al Batha) Casablanca,4,423,14.0
+Racine Casablanca,5,509,13.0
+Oulfa Casablanca,3,116,980.0
+Casablanca Marina Casablanca,2,142,530.0
+Ain Diab Casablanca,3,280,450.0
+Anfa Supérieur Casablanca,3,110,165.0
+Les Hopitaux Casablanca,2,113,156.0
+Les Hopitaux Casablanca,2,109,140.0
+Les princesses Casablanca,1,55,125.0
+Mers Sultan Casablanca,3,120,120.0
+ Casablanca,3,173,116.0
+Ain Sebaa Casablanca,3,222,115.0
+ Casablanca,2,79,110.0
+Mers Sultan Casablanca,2,128,109.0
+Mers Sultan Casablanca,2,128,109.0
+Maarif Casablanca,3,92,105.0
+Maarif Casablanca,2,80,100.0
+ Casablanca,3,101,98.0
+Bourgogne Ouest Casablanca,1,63,95.0
+Quartier Industriel Casablanca,2,115,72.0
+Sidi Othmane Casablanca,2,75,70.0
+Oasis Casablanca,78,4264,60.0
+Anfa Casablanca,5,290,43.0
+Anassi Casablanca,2,52,36.0
+Al Qods Casablanca,3,62,34.0
+ Casablanca,3,200,20.0
+Maarif Casablanca,10,972,20.0
+Maarif Casablanca,14,1350,20.0
+Gauthier Casablanca,5,897,16.0
+Californie Casablanca,5,914,16.0
+Al Kodia Casablanca,4,187,16.0
+Bourgogne Ouest Casablanca,2,110,15.0
+CIL (Hay Salam) Casablanca,4,700,15.0
+Plateau (Al Batha) Casablanca,4,423,14.0
+Racine Casablanca,5,509,13.0
+Oulfa Casablanca,3,116,980.0
+Casablanca Marina Casablanca,2,142,530.0
+Ain Diab Casablanca,3,280,450.0
+Anfa Supérieur Casablanca,3,110,165.0
+Les Hopitaux Casablanca,2,113,156.0
+Les Hopitaux Casablanca,2,109,140.0
+Les princesses Casablanca,1,55,125.0
+Mers Sultan Casablanca,3,120,120.0
+ Casablanca,3,173,116.0
+Ain Sebaa Casablanca,3,222,115.0
+ Casablanca,2,79,110.0
+Mers Sultan Casablanca,2,128,109.0
+Mers Sultan Casablanca,2,128,109.0
+Maarif Casablanca,3,92,105.0
+Maarif Casablanca,2,80,100.0
+ Casablanca,3,101,98.0
+Bourgogne Ouest Casablanca,1,63,95.0
+Quartier Industriel Casablanca,2,115,72.0
+Sidi Othmane Casablanca,2,75,70.0
+Oasis Casablanca,78,4264,60.0
+Anfa Casablanca,5,290,43.0
+Anassi Casablanca,2,52,36.0
+Al Qods Casablanca,3,62,34.0
+ Casablanca,3,200,20.0
+Maarif Casablanca,10,972,20.0
+Maarif Casablanca,14,1350,20.0
+Gauthier Casablanca,5,897,16.0
+Californie Casablanca,5,914,16.0
+Al Kodia Casablanca,4,187,16.0
+Bourgogne Ouest Casablanca,2,110,15.0
+CIL (Hay Salam) Casablanca,4,700,15.0
+Plateau (Al Batha) Casablanca,4,423,14.0
+Racine Casablanca,5,509,13.0
+Oulfa Casablanca,3,116,980.0
+Casablanca Marina Casablanca,2,142,530.0
+Ain Diab Casablanca,3,280,450.0
+Anfa Supérieur Casablanca,3,110,165.0
+Les Hopitaux Casablanca,2,113,156.0
+Les Hopitaux Casablanca,2,109,140.0
+Les princesses Casablanca,1,55,125.0
+Mers Sultan Casablanca,3,120,120.0
+ Casablanca,3,173,116.0
+Ain Sebaa Casablanca,3,222,115.0
+ Casablanca,2,79,110.0
+Mers Sultan Casablanca,2,128,109.0
+Mers Sultan Casablanca,2,128,109.0
+Maarif Casablanca,3,92,105.0
+Maarif Casablanca,2,80,100.0
+ Casablanca,3,101,98.0
+Bourgogne Ouest Casablanca,1,63,95.0
+Quartier Industriel Casablanca,2,115,72.0
+Sidi Othmane Casablanca,2,75,70.0
+Oasis Casablanca,78,4264,60.0
+Anfa Casablanca,5,290,43.0
+Anassi Casablanca,2,52,36.0
+Al Qods Casablanca,3,62,34.0
+ Casablanca,3,200,20.0
+Maarif Casablanca,10,972,20.0
+Maarif Casablanca,14,1350,20.0
+Gauthier Casablanca,5,897,16.0
+Californie Casablanca,5,914,16.0
+Al Kodia Casablanca,4,187,16.0
+Bourgogne Ouest Casablanca,2,110,15.0
+CIL (Hay Salam) Casablanca,4,700,15.0
+Plateau (Al Batha) Casablanca,4,423,14.0
+Racine Casablanca,5,509,13.0
+Oulfa Casablanca,3,116,980.0
+Casablanca Marina Casablanca,2,142,530.0
+Ain Diab Casablanca,3,280,450.0
+Anfa Supérieur Casablanca,3,110,165.0
+Les Hopitaux Casablanca,2,113,156.0
+Les Hopitaux Casablanca,2,109,140.0
+Les princesses Casablanca,1,55,125.0
+Mers Sultan Casablanca,3,120,120.0
+ Casablanca,3,173,116.0
+Ain Sebaa Casablanca,3,222,115.0
+ Casablanca,2,79,110.0
+Mers Sultan Casablanca,2,128,109.0
+Mers Sultan Casablanca,2,128,109.0
+Maarif Casablanca,3,92,105.0
+Maarif Casablanca,2,80,100.0
+ Casablanca,3,101,98.0
+Bourgogne Ouest Casablanca,1,63,95.0
+Quartier Industriel Casablanca,2,115,72.0
+Sidi Othmane Casablanca,2,75,70.0
+Oasis Casablanca,78,4264,60.0
+Anfa Casablanca,5,290,43.0
+Anassi Casablanca,2,52,36.0
+Al Qods Casablanca,3,62,34.0
+ Casablanca,3,200,20.0
+Maarif Casablanca,10,972,20.0
+Maarif Casablanca,14,1350,20.0
+Gauthier Casablanca,5,897,16.0
+Californie Casablanca,5,914,16.0
+Al Kodia Casablanca,4,187,16.0
+Bourgogne Ouest Casablanca,2,110,15.0
+CIL (Hay Salam) Casablanca,4,700,15.0
+Plateau (Al Batha) Casablanca,4,423,14.0
+Racine Casablanca,5,509,13.0
+Oulfa Casablanca,3,116,980.0
+Casablanca Marina Casablanca,2,142,530.0
+Ain Diab Casablanca,3,280,450.0
+Anfa Supérieur Casablanca,3,110,165.0
+Les Hopitaux Casablanca,2,113,156.0
+Les Hopitaux Casablanca,2,109,140.0
+Les princesses Casablanca,1,55,125.0
+Mers Sultan Casablanca,3,120,120.0
+ Casablanca,3,173,116.0
+Ain Sebaa Casablanca,3,222,115.0
+ Casablanca,2,79,110.0
+Mers Sultan Casablanca,2,128,109.0
+Mers Sultan Casablanca,2,128,109.0
+Maarif Casablanca,3,92,105.0
+Maarif Casablanca,2,80,100.0
+ Casablanca,3,101,98.0
+Bourgogne Ouest Casablanca,1,63,95.0
+Quartier Industriel Casablanca,2,115,72.0
+Sidi Othmane Casablanca,2,75,70.0
+Oasis Casablanca,78,4264,60.0
+Anfa Casablanca,5,290,43.0
+Anassi Casablanca,2,52,36.0
+Al Qods Casablanca,3,62,34.0
+ Casablanca,3,200,20.0
+Maarif Casablanca,10,972,20.0
+Maarif Casablanca,14,1350,20.0
+Gauthier Casablanca,5,897,16.0
+Californie Casablanca,5,914,16.0
+Al Kodia Casablanca,4,187,16.0
+Bourgogne Ouest Casablanca,2,110,15.0
+CIL (Hay Salam) Casablanca,4,700,15.0
+Plateau (Al Batha) Casablanca,4,423,14.0
+Racine Casablanca,5,509,13.0
+Oulfa Casablanca,3,116,980.0
+Casablanca Marina Casablanca,2,142,530.0
+Ain Diab Casablanca,3,280,450.0
+Anfa Supérieur Casablanca,3,110,165.0
+Les Hopitaux Casablanca,2,113,156.0
+Les Hopitaux Casablanca,2,109,140.0
+Les princesses Casablanca,1,55,125.0
+Mers Sultan Casablanca,3,120,120.0
+ Casablanca,3,173,116.0
+Ain Sebaa Casablanca,3,222,115.0
+ Casablanca,2,79,110.0
+Mers Sultan Casablanca,2,128,109.0
+Mers Sultan Casablanca,2,128,109.0
+Maarif Casablanca,3,92,105.0
+Maarif Casablanca,2,80,100.0
+ Casablanca,3,101,98.0
+Bourgogne Ouest Casablanca,1,63,95.0
+Quartier Industriel Casablanca,2,115,72.0
+Sidi Othmane Casablanca,2,75,70.0
+Oasis Casablanca,78,4264,60.0
+Anfa Casablanca,5,290,43.0
+Anassi Casablanca,2,52,36.0
+Al Qods Casablanca,3,62,34.0
+ Casablanca,3,200,20.0
+Maarif Casablanca,10,972,20.0
+Maarif Casablanca,14,1350,20.0
+Gauthier Casablanca,5,897,16.0
+Californie Casablanca,5,914,16.0
+Al Kodia Casablanca,4,187,16.0
+Bourgogne Ouest Casablanca,2,110,15.0
+CIL (Hay Salam) Casablanca,4,700,15.0
+Plateau (Al Batha) Casablanca,4,423,14.0
+Racine Casablanca,5,509,13.0
